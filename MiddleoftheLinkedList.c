@@ -2,5 +2,5 @@
 
 int main() {
     printf("Hello, Feature Branch!\n");
-    return 0;
+    return ;
 }
